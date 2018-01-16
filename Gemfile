@@ -50,7 +50,7 @@ gem 'rubocop-rails'
 gem 'bootstrap-sass'
 gem 'haml'
 gem 'haml-rails'
+gem 'pg'
 gem 'simple_form'
 gem 'webpacker', '~> 3.0'
-gem 'pg'
 gem "prawn" #need download logo and font
